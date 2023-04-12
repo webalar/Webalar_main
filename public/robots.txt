@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://webalar.in/sitemap.xml
